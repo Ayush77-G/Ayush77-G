@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ayush Gupta!
 
-🚀 **Aspiring Software Engineer and Data Scientist**  
+🚀 **Data and Product Geek**  
 🎓 Pursuing BS in Data Science at **IIT Madras** and B.Tech in Computer Science at **University of Lucknow**
 
 ---
