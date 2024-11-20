@@ -51,6 +51,7 @@
 
 
 ## 📊 **GitHub Stats**
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush77-G)](https://github.com/Ayush77-G/github-readme-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush77-G&theme=dracula)
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush77-G&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush77-G&layout=compact&theme=radical)
