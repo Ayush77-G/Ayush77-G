@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ayush Gupta!
 
 🚀 **Data and Product Geek**  
-🎓 BS in Data Science (IIT Madras) | B.Tech in CSE (University of Lucknow)  
-🌏 Bridging Technology, Leadership, and Global Impact  
+**🎓 BS in Data Science (IIT Madras) | B.Tech in CSE (University of Lucknow)**
+**🌏 Bridging Technology, Leadership, and Global Impact** 
 
 
 ---
@@ -15,6 +15,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -32,6 +33,10 @@
 ---
 
 ## 💼 **Experience**
+### Product Management Intern  
+**Yonder Wonder** *(Nov 2024 – Present)*  
+- Assisting in refining product operations with a data-driven approach.
+  
 ### Software Engineering Intern  
 **Oil & Natural Gas Corporation Limited (ONGC)**  
 - Deployed Stirling PDF with Docker, enhancing document management by 40%.  
