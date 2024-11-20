@@ -48,14 +48,17 @@
 - **Finance Head, Paradox IIT Madras:** Managed finances for 25+ events, saving 20% of the budget.  
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush77-G&theme=dracula)
+
 
 ## 📊 **GitHub Stats**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush77-G&theme=dracula)
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush77-G&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush77-G&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush77-G&layout=compact&theme=radical)
+[![Dev.to Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/ayush77)
+
 
 ---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ayush77-G.Ayush77-G)
 
 ## 🌐 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush30gupta)
