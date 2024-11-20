@@ -2,7 +2,6 @@
 
 🚀 **Data and Product Geek**  
 **🎓 BS in Data Science (IIT Madras) | B.Tech in CSE (University of Lucknow)**
-
 **🌏 Bridging Technology, Leadership, and Global Impact** 
 
 
