@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Ayush Gupta!
 
 🚀 **Data and Product Geek**  
-🎓 Pursuing BS in Data Science at **IIT Madras** and B.Tech in Computer Science at **University of Lucknow**
+🎓 BS in Data Science (IIT Madras) | B.Tech in CSE (University of Lucknow)  
+🌏 Bridging Technology, Leadership, and Global Impact  
+
 
 ---
 
